@@ -32,7 +32,7 @@
 
 ### 📫 Let's Connect!
 - 💼 [LinkedIn](linkedin.com/in/vedant-thorat-156b8628b)  
-- 🧑‍💻 [CodeChef]([https://www.codechef.com/users/your-username](https://www.codechef.com/users/vedant_87))  
+- 🧑‍💻 [CodeChef]([[https://www.codechef.com/users/your-username](https://www.codechef.com/users/vedant_87)](https://www.codechef.com/users/vedant_87))  
 - 📧 vedantthorat019@email.com  
 
 ---
