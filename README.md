@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 I'm a 2nd-year B.Tech student majoring in **Artificial Intelligence**, graduating in **2027**
-- 🔢 Solved **900+ problems on CodeChef**, building strong problem-solving skills
+- 🔢 Solved **1000+ problems on CodeChef**, building strong problem-solving skills
 - 💻 Proficient in **C**, **Java**, and **Python** for both development and algorithms
 - 🌐 Frontend developer with hands-on experience in **HTML5**, **CSS3**, and **JavaScript**
 - 🤖 Currently working on an **AI-Powered Manufacturing Guidance Website**
