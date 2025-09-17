@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 I'm a 2nd-year B.Tech student majoring in **Artificial Intelligence**, graduating in **2027**
+- 🎓 I'm a 3rd-year B.Tech student majoring in **Artificial Intelligence**, graduating in **2027**
 - 🔢 Solved **1000+ problems on CodeChef**, building strong problem-solving skills
 - 💻 Proficient in **C**, **Java**, and **Python** for both development and algorithms
 - 🌐 Frontend developer with hands-on experience in **HTML5**, **CSS3**, and **JavaScript**
@@ -15,10 +15,10 @@
 
 ### 🚀 Tech Stack
 - **Languages:** C, Java, Python, JavaScript  
-- **Web Development:** HTML5, CSS3, JavaScript (Vanilla), Responsive UI  
+- **Web Development:** HTML5, CSS3, JavaScript, Nodejs, Expressjs, RESTful API, Responsive UI  
 - **DSA Practice:** CodeChef, GeeksforGeeks, LeetCode, HackerRank  
 - **Tools & Platforms:** Git & GitHub, VS Code, Replit,   Anaconda Navigator  
-- **Learning:** Flask, Machine Learning, APIs, GitHub Pages
+- **Learning:**  Machine Learning, APIs, GitHub Pages
 
 ---
 
@@ -33,7 +33,8 @@
 ### 📫 Let's Connect!
 - 💼 [LinkedIn](linkedin.com/in/vedant-thorat-156b8628b)  
 - 🧑‍💻 [CodeChef](https://www.codechef.com/users/vedant_87) 
-- 📧 vedantthorat019@email.com  
+- 📧 vedantthorat019@email.com
+- 🧑‍💻 [HackerRank](https://www.hackerrank.com/profile/vedantthorat019)
 
 ---
 
