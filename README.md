@@ -5,8 +5,7 @@
 
 
 <h3 align="center">
-AI & Software Developer | DSA & Problem Solver | Competitive Programmer (1100+ CC solves) |
-MERN Stack | Python · Java · C | MySQL | API Testing  
+Software Developer | Aspiring AI/ML Engineer | Frontend Developer | Technical Support Engineer | MERN Stack | Linux | Python | Java | C | MySQL | API Testing | Competitive Programmer (1200+) | B.Tech 2027
 </h3>
 
 ---
@@ -47,9 +46,9 @@ MERN Stack | Python · Java · C | MySQL | API Testing
 ---
 
 ## 🏆 Achievements
-- **1000+ CodeChef problems solved**  
+- **1200+ CodeChef problems solved**  
 - **2★ CodeChef (75+ day streak)**  
-- **120+ LeetCode problems solved**  
+- **180+ LeetCode problems solved**  
 - Active on **GFG** & **HackerRank** for continuous DSA practice  
 
 ---
