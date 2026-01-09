@@ -1,7 +1,8 @@
 <!-- Minimal Professional SVG Banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/459c2c00-ec24-461f-94c2-6ac6fa425a39" alt="Vedant Image" width="150" height="150" />
+  <img src="https://github.com/user-attachments/assets/459c2c00-ec24-461f-94c2-6ac6fa425a39" width="150" height="150" />
 </p>
+
 
 
 <h3 align="center">
