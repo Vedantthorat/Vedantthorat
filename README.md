@@ -6,7 +6,7 @@
 
 
 <h3 align="center">
-Software Developer | Aspiring AI/ML Engineer | Frontend Developer | Technical Support Engineer | MERN Stack | Linux | Python | Java | C | MySQL | API Testing | Competitive Programmer (1200+) | B.Tech 2027
+Software Developer | Aspiring AI/ML Engineer | Frontend Developer | Technical Support Engineer | MERN Stack | Linux | Python | Java | C | MySQL | API Testing | Competitive Programmer (1300+) | B.Tech 2027
 </h3>
 
 ---
@@ -47,9 +47,9 @@ Software Developer | Aspiring AI/ML Engineer | Frontend Developer | Technical Su
 ---
 
 ## 🏆 Achievements
-- **1200+ CodeChef problems solved**  
-- **2★ CodeChef (75+ day streak)**  
-- **180+ LeetCode problems solved**  
+- **1300+ CodeChef problems solved**  
+- **3★ CodeChef (75+ day streak)**  
+- **200+ LeetCode problems solved**  
 - Active on **GFG** & **HackerRank** for continuous DSA practice  
 
 ---
