@@ -49,7 +49,7 @@ Software Developer | Aspiring AI/ML Engineer | Frontend Developer | Technical Su
 ## 🏆 Achievements
 - **1300+ CodeChef problems solved**  
 - **4★ CodeChef (75+ day streak)**  
-- **280+ LeetCode problems solved**  
+- **300+ LeetCode problems solved**  
 - Active on **GFG** & **HackerRank** for continuous DSA practice  
 
 ---
