@@ -112,21 +112,6 @@ HTML • CSS • JavaScript
 * AI Internship — **Tech Saksham (SAP CSR + Edunet)**
 * Front-End Development Internship — **IBM SkillsBuild + AICTE**
 
----
-
-
-## 📊 GitHub Stats
-
-
-<p align="center">
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vedantthorat&show_icons=true&theme=tokyonight" height="180"/>
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vedantthorat&layout=compact&theme=tokyonight" height="180"/>
-
-</p>
-
-
 
 ---
 
