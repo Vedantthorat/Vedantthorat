@@ -1,78 +1,169 @@
-<!-- Minimal Professional SVG Banner -->
+<!-- ================= HEADER BANNER ================= -->
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/459c2c00-ec24-461f-94c2-6ac6fa425a39" width="150" height="150" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Vedant+Thorat;AI%2FML+Engineer;Software+Developer;MERN+Stack+Developer;Competitive+Programmer;B.Tech+CSE+(AI)+2027" />
 </p>
 
+---
 
+# 👨‍💻 About Me
 
-<h3 align="center">
-Software Developer | Aspiring AI/ML Engineer | Frontend Developer | Technical Support Engineer | MERN Stack | Linux | Python | Java | C | MySQL | API Testing | Competitive Programmer (1300+) | B.Tech 2027
-</h3>
+🎓 **B.Tech Computer Science Engineering (Artificial Intelligence)** — Class of 2027
+
+💡 Passionate about building **AI-powered applications, scalable backend systems, and modern web platforms.**
+
+🚀 My focus areas include:
+
+* Artificial Intelligence & Machine Learning
+* Full Stack Development (MERN)
+* Data Structures & Algorithms
+* Scalable Software Engineering
+
+💻 I actively practice **competitive programming** and build **real-world projects combining AI and web technologies.**
 
 ---
 
-## 👨‍💻 About Me
-- B.Tech Computer Science Engineering (AI), 2027  
-- AI & Software Developer with strong Full-Stack (MERN) experience  
-- Competitive Programmer with expertise in DSA & problem-solving  
-- Skilled in Python, Java, C, JavaScript & ML libraries  
-- Passionate about building real-world AI + Web applications  
-- Focused on clean code, scalability, and performance  
+# 🛠️ Tech Stack
+
+## Programming Languages
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge\&logo=python\&logoColor=blue)
+![Java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge\&logo=javascript\&logoColor=black)
 
 ---
 
-## 🚀 Tech Stack
+## Web Development
 
-### **Languages**
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=000)
+![HTML5](https://img.shields.io/badge/HTML5-FF4C1E?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0277BD?style=for-the-badge\&logo=css3\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000?style=for-the-badge\&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
-### **Web Development**
-![HTML5](https://img.shields.io/badge/HTML5-FF4C1E?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-0277BD?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![NodeJS](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge)
+---
 
-### **Machine Learning**
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+## Machine Learning
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-130654?style=for-the-badge\&logo=pandas)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge)
 
 ---
 
-## 🏆 Achievements
-- **1300+ CodeChef problems solved**  
-- **4★ CodeChef (75+ day streak)**  
-- **300+ LeetCode problems solved**  
-- Active on **GFG** & **HackerRank** for continuous DSA practice  
+## Tools & Platforms
+
+Linux • Git • GitHub • Postman • REST APIs • MySQL
 
 ---
 
-## 📂 Projects
+# 🏆 Achievements
 
-### **1️⃣ KrishiMitra — Weather-Based Crop Advisory System**
-- ML-based crop recommendation improving prediction accuracy by ~15%  
-- Built with HTML5, CSS3, JavaScript (mobile-first UI)  
-- Designed to support farmers with intelligent crop planning  
-
-### **2️⃣ AI in Manufacturing — Industry Guidance Platform**
-- AI-driven insights on scope, cost & trends, boosting decision accuracy by ~10%  
-- Responsive UI built using HTML5, CSS3, JavaScript  
-- Includes modular components & optimized frontend performance  
+⭐ Solved **1300+ problems on CodeChef**
+⭐ **4★ CodeChef rating**
+⭐ **75+ day coding streak**
+⭐ Solved **320+ problems on LeetCode**
+⭐ Active on **GeeksforGeeks & HackerRank**
 
 ---
 
-## 🎓 Certificates
-- Spring Boot Course — **Scaler (2025)**  
-- Full Stack Web Development — **Vodafone Idea Solutions (2025)**  
-- GenAI in Action — **IBM Honors (2025)**  
-- AI Intern — **Tech Saksham (SAP CSR + Edunet)**  
-- Front-End Development Intern — **IBM SkillsBuild + AICTE**  
+# 📂 Featured Projects
+
+## 🌾 KrishiMitra — Weather-Based Crop Advisory System
+
+Machine learning system that recommends crops based on environmental conditions.
+
+**Highlights**
+
+* Improved crop prediction accuracy by **~15%**
+* Mobile-first responsive UI
+* Designed to assist farmers in **data-driven crop planning**
+
+**Tech Stack**
+
+HTML • CSS • JavaScript • Machine Learning
 
 ---
+
+## 🏭 AI in Manufacturing — Industry Guidance Platform
+
+Platform providing AI-driven insights into manufacturing trends and investment planning.
+
+**Highlights**
+
+* Data-driven manufacturing insights
+* Improved decision accuracy by **~10%**
+* Optimized modular frontend architecture
+
+**Tech Stack**
+
+HTML • CSS • JavaScript
+
+---
+
+# 🎓 Certifications
+
+* Spring Boot Development — **Scaler (2025)**
+* Full Stack Web Development — **Vodafone Idea Solutions (2025)**
+* GenAI in Action — **IBM Honors (2025)**
+* AI Internship — **Tech Saksham (SAP CSR + Edunet)**
+* Front-End Development Internship — **IBM SkillsBuild + AICTE**
+
+---
+
+
+## 📊 GitHub Stats
+
+
+<p align="center">
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vedantthorat&show_icons=true&theme=tokyonight" height="180"/>
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vedantthorat&layout=compact&theme=tokyonight" height="180"/>
+
+</p>
+
+
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedantthorat&theme=tokyonight">
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+![Vedant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vedantthorat\&theme=tokyo-night)
+
+---
+
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+# 👀 Profile Visitors
+
+![Profile views](https://komarev.com/ghpvc/?username=Vedantthorat\&label=Profile%20views\&color=0e75b6\&style=flat)
+
+---
+
+# 📫 Connect With Me
+
+💼 LinkedIn
+💻 GitHub
+📧 Email
+
+---
+
+⭐ **Open to AI/ML, Software Engineering, and Full Stack opportunities**
