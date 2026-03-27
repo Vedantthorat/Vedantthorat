@@ -64,8 +64,8 @@ Linux • Git • GitHub • Postman • REST APIs • MySQL
 
 ⭐ Solved **1300+ problems on CodeChef**
 ⭐ **4★ CodeChef rating**
-⭐ **75+ day coding streak**
-⭐ Solved **320+ problems on LeetCode**
+⭐ **100+ day coding streak**
+⭐ Solved **350+ problems on LeetCode**
 ⭐ Active on **GeeksforGeeks & HackerRank**
 
 ---
