@@ -1,154 +1,289 @@
-<!-- ================= HEADER BANNER ================= -->
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Vedant+Thorat;AI%2FML+Engineer;Software+Developer;MERN+Stack+Developer;Competitive+Programmer;B.Tech+CSE+(AI)+2027" />
+<!-- Dynamic Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=200&section=header&text=Vedant%20Thorat&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Open%20Source%20Contributor&descAlignY=58&descSize=18&animation=twinkling"/>
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Building+AI-Powered+Applications+%F0%9F%A4%96;MERN+Stack+%7C+Machine+Learning+%7C+DSA+%F0%9F%9A%80;GSSoC+2026+Open+Source+Contributor+%F0%9F%8C%B1;Turning+Ideas+into+Scalable+Software+%E2%9A%A1" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Profile Badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Vedantthorat&label=Profile+Views&color=00d4ff&style=flat-square" alt="Profile Views"/>
+  &nbsp;
+  <a href="https://github.com/Vedantthorat?tab=followers">
+    <img src="https://img.shields.io/github/followers/Vedantthorat?label=Followers&style=flat-square&color=7c3aed&labelColor=0d1117" alt="Followers"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Full%20Stack-00d4ff?style=flat-square&labelColor=0d1117" alt="Focus"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00ff88?style=flat-square&labelColor=0d1117" alt="Status"/>
 </p>
 
----
-
-# 👨‍💻 About Me
-
-🎓 **B.Tech Computer Science Engineering (Artificial Intelligence)** — Class of 2027
-
-💡 Passionate about building **AI-powered applications, scalable backend systems, and modern web platforms.**
-
-🚀 My focus areas include:
-
-* Artificial Intelligence & Machine Learning
-* Full Stack Development (MERN)
-* Data Structures & Algorithms
-* Scalable Software Engineering
-
-💻 I actively practice **competitive programming** and build **real-world projects combining AI and web technologies.**
+</div>
 
 ---
 
-# 🛠️ Tech Stack
+## 🧠 About Me
 
-## Programming Languages
+```typescript
+const vedant = {
+  degree     : "B.Tech CSE (Artificial Intelligence) — Class of 2027",
+  location   : "Maharashtra, India 🇮🇳",
+  currentFocus: ["AI/ML Engineering", "MERN Stack", "DSA", "Open Source"],
+  communities : ["GSSoC 2026 Contributor"],
+  passion     : "Building AI-powered tools that solve real-world problems",
+  philosophy  : "Code with purpose. Build with impact. Grow through community.",
+  funFact     : "I've solved 1300+ problems and still find new ones exciting 🔥"
+};
+```
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge\&logo=python\&logoColor=blue)
-![Java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge\&logo=javascript\&logoColor=black)
+<img align="right" alt="Coding GIF" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
----
+**Quick Snapshot:**
+- 🎓 Specializing in **AI + Software Engineering** at the intersection of intelligence and scale
+- 🤖 Building **ML-powered applications** with real-world impact
+- 🌐 Crafting **full-stack platforms** with MERN architecture  
+- 💡 Competitive programmer with **1300+ CodeChef** & **370+ LeetCode** solutions
+- 🌱 Active **GSSoC 2026** contributor — collaborating on open-source projects
+- 📬 Reach me: **vedantthorat019@gmail.com**
 
-## Web Development
-
-![HTML5](https://img.shields.io/badge/HTML5-FF4C1E?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-0277BD?style=for-the-badge\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![NodeJS](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000?style=for-the-badge\&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge\&logo=mongodb\&logoColor=white)
-
----
-
-## Machine Learning
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-130654?style=for-the-badge\&logo=pandas)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge)
+<br clear="right"/>
 
 ---
 
-## Tools & Platforms
+## 🏅 GSSoC 2026 — Open Source Journey
 
-Linux • Git • GitHub • Postman • REST APIs • MySQL
+<div align="center">
 
----
+<table>
+<tr>
+<td align="center" width="33%">
+<img width="220" src="https://github.com/user-attachments/assets/1a57c969-8856-4ec4-a2b4-8b8b66d322be" alt="GSSoC Contributor Badge"/>
+<br/><b>🌱 Active Contributor</b>
+</td>
+<td align="center" width="33%">
+<img width="220" src="https://github.com/user-attachments/assets/59d1bf36-8cef-44af-8a44-825f6d1fde68" alt="AI Badge"/>
+<br/><b>🤖 AI Track</b>
+</td>
+<td align="center" width="33%">
+<img width="220" src="https://github.com/user-attachments/assets/e5e1c86f-d3ac-4d99-8600-2eca590e9f5d" alt="Open Source Badge"/>
+<br/><b>💻 Open Source</b>
+</td>
+</tr>
+</table>
 
-# 🏆 Achievements
+</div>
 
-⭐ Solved **1300+ problems on CodeChef**
-⭐ **4★ CodeChef rating**
-⭐ **100+ day coding streak**
-⭐ Solved **370+ problems on LeetCode**
-⭐ Active on **GeeksforGeeks & HackerRank**
-
----
-
-# 📂 Featured Projects
-
-## 🌾 KrishiMitra — Weather-Based Crop Advisory System
-
-Machine learning system that recommends crops based on environmental conditions.
-
-**Highlights**
-
-* Improved crop prediction accuracy by **~15%**
-* Mobile-first responsive UI
-* Designed to assist farmers in **data-driven crop planning**
-
-**Tech Stack**
-
-HTML • CSS • JavaScript • Machine Learning
+> 🌟 Contributing to real-world projects, collaborating with global developers, and building impactful open-source software through **GirlScript Summer of Code 2026**.
 
 ---
 
-## 🏭 AI in Manufacturing — Industry Guidance Platform
+## 🛠️ Tech Stack & Tools
 
-Platform providing AI-driven insights into manufacturing trends and investment planning.
+<div align="center">
 
-**Highlights**
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-* Data-driven manufacturing insights
-* Improved decision accuracy by **~10%**
-* Optimized modular frontend architecture
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**Tech Stack**
+### ⚙️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-HTML • CSS • JavaScript
+### 🤖 AI / ML
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
----
+### 🔧 DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
-# 🎓 Certifications
-
-* Spring Boot Development — **Scaler (2025)**
-* Full Stack Web Development — **Vodafone Idea Solutions (2025)**
-* GenAI in Action — **IBM Honors (2025)**
-* AI Internship — **Tech Saksham (SAP CSR + Edunet)**
-* Front-End Development Internship — **IBM SkillsBuild + AICTE**
-
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedantthorat&theme=tokyonight">
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-![Vedant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vedantthorat\&theme=tokyo-night)
+</div>
 
 ---
 
-# 🐍 Contribution Snake
+## 📊 GitHub Analytics
 
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+<!-- Row 1: Stats + Streak side by side -->
+<a href="https://github.com/Vedantthorat">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vedantthorat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff"/>
+</a>
+<a href="https://github.com/Vedantthorat">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedantthorat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8"/>
+</a>
+
+<!-- Streak Stats -->
+<br/>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Vedantthorat&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7c3aed&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=ffffff&dates=888888" alt="GitHub Streak"/>
+</a>
+
+</div>
 
 ---
 
-# 👀 Profile Visitors
+## 📈 Contribution Graph
 
-![Profile views](https://komarev.com/ghpvc/?username=Vedantthorat\&label=Profile%20views\&color=0e75b6\&style=flat)
-
----
-
-# 📫 Connect With Me
-
-💼 LinkedIn
-💻 GitHub
-📧 Email
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedantthorat&theme=tokyo-night&bg_color=0d1117&color=00d4ff&line=7c3aed&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
 
 ---
 
-⭐ **Open to AI/ML, Software Engineering, and Full Stack opportunities**
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vedantthorat/Vedantthorat/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vedantthorat/Vedantthorat/output/github-contribution-grid-snake.svg"/>
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Vedantthorat/Vedantthorat/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+</div>
+
+> 💡 **Note on Snake:** To enable the snake animation, add a GitHub Actions workflow in your repo. See [platane/snk](https://github.com/Platane/snk) for setup.
+
+---
+
+## 🏆 Achievements & Competitive Programming
+
+<div align="center">
+
+| 🏅 Platform | 🎯 Achievement | 📊 Stats |
+|:-----------:|:--------------:|:--------:|
+| **CodeChef** | ⭐⭐⭐⭐ 4-Star Rated | 1300+ Problems Solved |
+| **LeetCode** | Active Solver | 370+ Problems Solved |
+| **GeeksforGeeks** | Regular Contributor | Active |
+| **HackerRank** | Certified | Active |
+| **GitHub** | Streak Champion | 100+ Day Streak 🔥 |
+
+</div>
+
+---
+
+## 📂 Featured Projects
+
+### 🌾 KrishiMitra — AI Crop Advisory System
+> *Empowering farmers with data-driven agricultural intelligence*
+
+<table>
+<tr>
+<td>
+
+**Problem:** Farmers lack data-driven crop guidance based on local conditions.
+
+**Solution:** ML-powered system that analyzes environmental parameters and recommends the most suitable crops with high accuracy.
+
+**Impact:**
+- 📈 **~15% improvement** in crop prediction accuracy
+- 📱 Mobile-first responsive design for rural accessibility  
+- 🌿 Supports sustainable, data-informed farming decisions
+
+**Tech Stack:** `HTML` · `CSS` · `JavaScript` · `Machine Learning`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🏭 AI in Manufacturing — Industry Intelligence Platform
+> *Bridging AI insights with manufacturing decision-making*
+
+<table>
+<tr>
+<td>
+
+**Problem:** Manufacturing decision-makers lack accessible AI-powered trend analysis.
+
+**Solution:** Platform delivering AI-driven insights for manufacturing trends, investment planning, and operational optimization.
+
+**Impact:**
+- 🎯 **~10% improvement** in decision-making accuracy
+- 🏗️ Modular, scalable frontend architecture
+- 📊 Data-driven investment guidance at scale
+
+**Tech Stack:** `HTML` · `CSS` · `JavaScript`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎓 Certifications & Learning
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                     📜 CERTIFICATIONS                                ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  🟢  Spring Boot Development          —  Scaler (2025)               ║
+║  🟢  Full Stack Web Development       —  Vodafone Idea (2025)        ║
+║  🟡  GenAI in Action                  —  IBM Honors (2025)           ║
+║  🔵  AI Internship                    —  SAP CSR + Edunet (TechSaksham) ║
+║  🔵  Front-End Development Internship —  IBM SkillsBuild + AICTE     ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 💼 Open To Opportunities
+
+<div align="center">
+
+| Role | Status |
+|:----:|:------:|
+| 🤖 AI/ML Engineering | ✅ Open |
+| 🌐 Full Stack Development | ✅ Open |
+| ⚙️ Software Engineering | ✅ Open |
+| 🔬 Research & Hackathons | ✅ Open |
+| 🌱 Open Source Collaboration | ✅ Always |
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Vedantthorat-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vedantthorat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vedant%20Thorat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-thorat-156b8628b/)
+[![Email](https://img.shields.io/badge/Email-vedantthorat019@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedantthorat019@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00d4ff,100:0d1117&height=120&section=footer&animation=twinkling"/>
+
+**⭐ If you find my work interesting, consider starring my repos!**
+
+*"Code is not just instructions for machines — it's a creative expression of problem-solving."*
+
+</div>
