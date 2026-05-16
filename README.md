@@ -14,9 +14,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=Vedantthorat&label=Profile+Views&color=00d4ff&style=flat-square" alt="Profile Views"/>
   &nbsp;
-  <a href="https://github.com/Vedantthorat?tab=followers">
-    <img src="https://img.shields.io/github/followers/Vedantthorat?label=Followers&style=flat-square&color=7c3aed&labelColor=0d1117" alt="Followers"/>
-  </a>
+
   &nbsp;
   <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Full%20Stack-00d4ff?style=flat-square&labelColor=0d1117" alt="Focus"/>
   &nbsp;
