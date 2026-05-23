@@ -45,7 +45,7 @@ const vedant = {
 - 🎓 Specializing in **AI + Software Engineering** at the intersection of intelligence and scale
 - 🤖 Building **ML-powered applications** with real-world impact
 - 🌐 Crafting **full-stack platforms** with MERN architecture  
-- 💡 Competitive programmer with **1300+ CodeChef** & **370+ LeetCode** solutions
+- 💡 Competitive programmer with **1300+ CodeChef** & **400+ LeetCode** solutions
 - 🌱 Active **GSSoC 2026** contributor — collaborating on open-source projects
 - 📬 Reach me: **vedantthorat019@gmail.com**
 
