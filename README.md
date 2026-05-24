@@ -168,8 +168,8 @@ const vedant = {
 
 | 🏅 Platform | 🎯 Achievement | 📊 Stats |
 |:-----------:|:--------------:|:--------:|
-| **CodeChef** | ⭐⭐⭐⭐ 4-Star Rated | 1300+ Problems Solved |
-| **LeetCode** | Active Solver | 370+ Problems Solved |
+| **CodeChef** | ⭐⭐⭐⭐⭐ 5-Star Rated | 1300+ Problems Solved |
+| **LeetCode** | Active Solver | 400+ Problems Solved |
 | **GeeksforGeeks** | Regular Contributor | Active |
 | **HackerRank** | Certified | Active |
 | **GitHub** | Streak Champion | 100+ Day Streak 🔥 |
