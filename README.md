@@ -14,8 +14,6 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=Vedantthorat&label=Profile+Views&color=00d4ff&style=flat-square" alt="Profile Views"/>
   &nbsp;
-
-  &nbsp;
   <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Full%20Stack-00d4ff?style=flat-square&labelColor=0d1117" alt="Focus"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00ff88?style=flat-square&labelColor=0d1117" alt="Status"/>
@@ -29,8 +27,8 @@
 
 ```typescript
 const vedant = {
-  degree     : "B.Tech CSE (Artificial Intelligence) — Class of 2027",
-  location   : "Maharashtra, India 🇮🇳",
+  degree      : "B.Tech CSE (Artificial Intelligence) — Class of 2027",
+  location    : "Maharashtra, India 🇮🇳",
   currentFocus: ["AI/ML Engineering", "MERN Stack", "DSA", "Open Source"],
   communities : ["GSSoC 2026 Contributor"],
   passion     : "Building AI-powered tools that solve real-world problems",
@@ -44,7 +42,7 @@ const vedant = {
 **Quick Snapshot:**
 - 🎓 Specializing in **AI + Software Engineering** at the intersection of intelligence and scale
 - 🤖 Building **ML-powered applications** with real-world impact
-- 🌐 Crafting **full-stack platforms** with MERN architecture  
+- 🌐 Crafting **full-stack platforms** with MERN architecture
 - 💡 Competitive programmer with **1300+ CodeChef** & **400+ LeetCode** solutions
 - 🌱 Active **GSSoC 2026** contributor — collaborating on open-source projects
 - 📬 Reach me: **vedantthorat019@gmail.com**
@@ -102,6 +100,8 @@ const vedant = {
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🤖 AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -122,7 +122,6 @@ const vedant = {
 
 <div align="center">
 
-<!-- Row 1: Stats + Streak side by side -->
 <a href="https://github.com/Vedantthorat">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vedantthorat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff"/>
 </a>
@@ -130,7 +129,6 @@ const vedant = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedantthorat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8"/>
 </a>
 
-<!-- Streak Stats -->
 <br/>
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=Vedantthorat&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7c3aed&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=ffffff&dates=888888" alt="GitHub Streak"/>
@@ -193,10 +191,35 @@ const vedant = {
 
 **Impact:**
 - 📈 **~15% improvement** in crop prediction accuracy
-- 📱 Mobile-first responsive design for rural accessibility  
+- 📱 Mobile-first responsive design for rural accessibility
 - 🌿 Supports sustainable, data-informed farming decisions
 
 **Tech Stack:** `HTML` · `CSS` · `JavaScript` · `Machine Learning`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🔍 AI Image Authenticity Classifier — CNN-Based Detection System
+> *Distinguishing AI-generated images from real ones with deep learning*
+
+<table>
+<tr>
+<td>
+
+**Problem:** Rapid proliferation of AI-generated imagery creates trust and authenticity challenges across platforms.
+
+**Solution:** CNN-based binary classifier exposed via REST API — differentiating AI-generated images from real ones with structured JSON payload contracts and a fully validated inference pipeline.
+
+**Impact:**
+- 🧠 **End-to-end inference pipeline** — from raw image payload to classified output via REST API
+- 🛡️ Robust input validation using NumPy — handles corrupt inputs, format inconsistencies, and edge cases before CNN inference to ensure prediction integrity
+- 🔎 Systematic **RCA and API debugging** — reproduced client-reported misclassifications, traced failure points across the request pipeline, and documented fixes for recurring failure patterns
+- 📊 Inference health monitoring — tracked response latency, flagged CNN confidence score anomalies, and validated full-stack functionality end-to-end
+
+**Tech Stack:** `Python` · `TensorFlow` · `Keras` · `CNN` · `REST API` · `JSON` · `Postman`
 
 </td>
 </tr>
@@ -232,33 +255,25 @@ const vedant = {
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                     📜 CERTIFICATIONS                                ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  🟢  Spring Boot Development          —  Scaler (2025)               ║
-║  🟢  Full Stack Web Development       —  Vodafone Idea (2025)        ║
-║  🟡  GenAI in Action                  —  IBM Honors (2025)           ║
-║  🔵  AI Internship                    —  SAP CSR + Edunet (TechSaksham) ║
-║  🔵  Front-End Development Internship —  IBM SkillsBuild + AICTE     ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+### 🤖 AI / ML & Data Science
+| 🏅 Certification | 🏢 Issuer | 📅 Year |
+|:----------------|:---------:|:-------:|
+| GenAI in Action | IBM (Honors) | 2025 |
+| AI Internship Program | SAP CSR + Edunet (TechSaksham) | 2025 |
+| Applied Machine Learning | Coursework — B.Tech AI | 2025 |
 
-</div>
+### 🌐 Full Stack & Cloud Development
+| 🏅 Certification | 🏢 Issuer | 📅 Year |
+|:----------------|:---------:|:-------:|
+| Full Stack Web Development | Vodafone Idea | 2025 |
+| Spring Boot Development | Scaler | 2025 |
+| Front-End Development Internship | IBM SkillsBuild + AICTE | 2025 |
 
----
-
-## 💼 Open To Opportunities
-
-<div align="center">
-
-| Role | Status |
-|:----:|:------:|
-| 🤖 AI/ML Engineering | ✅ Open |
-| 🌐 Full Stack Development | ✅ Open |
-| ⚙️ Software Engineering | ✅ Open |
-| 🔬 Research & Hackathons | ✅ Open |
-| 🌱 Open Source Collaboration | ✅ Always |
+### 🛡️ Cybersecurity & Technical Foundations
+| 🏅 Certification | 🏢 Issuer | 📅 Year |
+|:----------------|:---------:|:-------:|
+| REST API Design & Testing | Postman (via project work) | 2025 |
+| Linux & Command Line Basics | Self-directed — IBM SkillsBuild | 2025 |
 
 </div>
 
@@ -271,6 +286,25 @@ const vedant = {
 [![GitHub](https://img.shields.io/badge/GitHub-Vedantthorat-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vedantthorat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vedant%20Thorat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-thorat-156b8628b/)
 [![Email](https://img.shields.io/badge/Email-vedantthorat019@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedantthorat019@gmail.com)
+
+</div>
+
+---
+
+## 🚀 Open For Opportunities
+
+<div align="center">
+
+| Domain | Availability |
+|:-------|:------------:|
+| 🛠️ Technical Support & Incident Response | ✅ Open |
+| 🤖 AI/ML Engineering | ✅ Open |
+| 🌐 Full Stack Development | ✅ Open |
+| ⚙️ Software Engineering | ✅ Open |
+| 🔬 Research & Hackathons | ✅ Open |
+| 🌱 Open Source Collaboration | ✅ Always Open |
+
+📬 **vedantthorat019@gmail.com** · [LinkedIn](https://www.linkedin.com/in/vedant-thorat-156b8628b/) · [GitHub](https://github.com/Vedantthorat)
 
 </div>
 
