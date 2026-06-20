@@ -196,6 +196,8 @@ const vedant = {
 
 **Tech Stack:** `HTML` · `CSS` · `JavaScript` · `Machine Learning`
 
+🔗 **Live Demo:** [krishimitramhvedant1.netlify.app](https://krishimitramhvedant1.netlify.app/)
+
 </td>
 </tr>
 </table>
@@ -221,6 +223,8 @@ const vedant = {
 
 **Tech Stack:** `Python` · `TensorFlow` · `Keras` · `CNN` · `REST API` · `JSON` · `Postman`
 
+🔗 **Live Demo:** [aiimageclassifiervedant.netlify.app](https://aiimageclassifiervedant.netlify.app/)
+
 </td>
 </tr>
 </table>
@@ -244,6 +248,8 @@ const vedant = {
 - 📊 Data-driven investment guidance at scale
 
 **Tech Stack:** `HTML` · `CSS` · `JavaScript`
+
+🔗 **Live Demo:** [solutionofindustrybyai.netlify.app](https://solutionofindustrybyai.netlify.app/index.html#)
 
 </td>
 </tr>
