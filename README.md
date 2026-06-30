@@ -41,7 +41,7 @@ const vedant: Developer = {
 
 - 🎓 Specializing in **AI + Software Engineering** at the intersection of intelligence and scale
 - 🤖 Shipped **10+ projects** — ML apps, full-stack platforms, real-time systems, and AI tools
-- ⚔️ **Candidate Master** on Codeforces · **5★** CodeChef · **440+** LeetCode · **1300+** problems total
+- ⚔️ **Candidate Master** on Codeforces · **5★** CodeChef · **441+** LeetCode · **1300+** problems total
 - 🌱 Active **GSSoC 2026** contributor — shipping open-source on the AI track
 - 💼 **3 internships** — Microsoft/SAP TechSaksham · Cognifyz · Thiranex
 - 📬 **vedantthorat019@gmail.com**
