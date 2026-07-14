@@ -32,7 +32,7 @@ const vedant: Developer = {
   focus       : ["AI/ML Engineering", "Full Stack (MERN)", "DSA", "Open Source"],
   internships : ["TechSaksham — Microsoft & SAP", "Cognifyz Technologies", "Thiranex (Data Science)"],
   communities : ["GSSoC 2026 Contributor", "Google Gemini Campus Ambassador", "GeeksforGeeks Rep"],
-  cp          : "Candidate Master (CF) · 5★ CodeChef · 1300+ solved · 440+ LeetCode",
+  cp          : "Candidate Master (CF) · 5★ CodeChef · 1300+ solved · 450+ LeetCode",
   philosophy  : "Code with purpose. Build with impact. Grow through community.",
 };
 ```
