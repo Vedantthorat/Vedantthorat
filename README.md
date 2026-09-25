@@ -32,7 +32,7 @@ const vedant: Developer = {
   focus       : ["AI/ML Engineering", "Full Stack (MERN)", "DSA", "Open Source"],
   internships : ["TechSaksham — Microsoft & SAP", "Cognifyz Technologies", "Thiranex (Data Science)"],
   communities : ["GSSoC 2026 Contributor", "Google Gemini Campus Ambassador", "GeeksforGeeks Rep"],
-  cp          : "Candidate Master (CF) · 5★ CodeChef · 1300+ solved · 450+ LeetCode",
+  cp          : "Candidate Master (CF) · 5★ CodeChef · 1300+ solved · 550+ LeetCode",
   philosophy  : "Code with purpose. Build with impact. Grow through community.",
 };
 ```
@@ -41,7 +41,7 @@ const vedant: Developer = {
 
 - 🎓 Specializing in **AI + Software Engineering** at the intersection of intelligence and scale
 - 🤖 Shipped **10+ projects** — ML apps, full-stack platforms, real-time systems, and AI tools
-- ⚔️ **Candidate Master** on Codeforces · **5★** CodeChef · **450+** LeetCode · **1300+** problems total
+- ⚔️ **Candidate Master** on Codeforces · **5★** CodeChef · **550+** LeetCode · **1300+** problems total
 - 🌱 Active **GSSoC 2026** contributor — shipping open-source on the AI track
 - 💼 **3 internships** — Microsoft/SAP TechSaksham · Cognifyz · Thiranex
 - 📬 **vedantthorat019@gmail.com**
@@ -312,7 +312,7 @@ const vedant: Developer = {
 |:-----------:|:--------------:|:--------:|
 | **Codeforces** | ⚔️ Candidate Master | Graph · DP · Strings |
 | **CodeChef** | ⭐⭐⭐⭐⭐ 5-Star | 1300+ Problems Solved |
-| **LeetCode** | Active Solver | 440+ Problems Solved |
+| **LeetCode** | Active Solver | 550+ Problems Solved |
 | **GeeksforGeeks** | Campus Representative | Regular Contributor |
 | **HackerRank** | Certified | Problem Solving Track |
 
