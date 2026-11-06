@@ -32,16 +32,16 @@ const vedant: Developer = {
   focus       : ["AI/ML Engineering", "Full Stack (MERN)", "DSA", "Open Source"],
   internships : ["TechSaksham — Microsoft & SAP", "Cognifyz Technologies", "Thiranex (Data Science)"],
   communities : ["GSSoC 2026 Contributor", "Google Gemini Campus Ambassador", "GeeksforGeeks Rep"],
-  cp          : "Candidate Master (CF) · 5★ CodeChef · 1300+ solved · 600+ LeetCode",
+  cp          : "Candidate Master (CF) · 5★ CodeChef · 1300+ solved · 615++ LeetCode",
   philosophy  : "Code with purpose. Build with impact. Grow through community.",
 };
 ```
 
-<img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37615+f8381a.gif"/>
 
 - 🎓 Specializing in **AI + Software Engineering** at the intersection of intelligence and scale
 - 🤖 Shipped **10+ projects** — ML apps, full-stack platforms, real-time systems, and AI tools
-- ⚔️ **Candidate Master** on Codeforces · **5★** CodeChef · **600+** LeetCode · **1300+** problems total
+- ⚔️ **Candidate Master** on Codeforces · **5★** CodeChef · **615++** LeetCode · **1300+** problems total
 - 🌱 Active **GSSoC 2026** contributor — shipping open-source on the AI track
 - 💼 **3 internships** — Microsoft/SAP TechSaksham · Cognifyz · Thiranex
 - 📬 **vedantthorat019@gmail.com**
@@ -65,7 +65,7 @@ const vedant: Developer = {
 <br/><b>🤖 AI Track</b>
 </td>
 <td align="center" width="33%">
-<img width="210" src="https://github.com/user-attachments/assets/e5e1c86f-d3ac-4d99-8600-2eca590e9f5d"/>
+<img width="210" src="https://github.com/user-attachments/assets/e5e1c86f-d3ac-4d99-8615+-2eca590e9f5d"/>
 <br/><b>💻 Open Source</b>
 </td>
 </tr>
@@ -312,7 +312,7 @@ const vedant: Developer = {
 |:-----------:|:--------------:|:--------:|
 | **Codeforces** | ⚔️ Candidate Master | Graph · DP · Strings |
 | **CodeChef** | ⭐⭐⭐⭐⭐ 5-Star | 1300+ Problems Solved |
-| **LeetCode** | Active Solver | 600+ Problems Solved |
+| **LeetCode** | Active Solver | 615++ Problems Solved |
 | **GeeksforGeeks** | Campus Representative | Regular Contributor |
 | **HackerRank** | Certified | Problem Solving Track |
 
